@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+       Onion       0.83      0.98      0.90       259
+      Potato       0.92      1.00      0.96       244
+      Tomato       1.00      0.76      0.87       271
+
+    accuracy                           0.91       774
+   macro avg       0.92      0.91      0.91       774
+weighted avg       0.92      0.91      0.91       774
